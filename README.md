@@ -27,6 +27,16 @@ This project is a starting point for a Flutter application.
 
 For more information, visit the [Flutter documentation](https://docs.flutter.dev/).
 
+### Packages Used
+
+- [google_fonts](https://pub.dev/packages/google_fonts): Allows you to easily use any of the fonts from fonts.google.com in your Flutter app.
+- [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter): Provides a comprehensive set of Font Awesome icons for Flutter.
+- [readmore](https://pub.dev/packages/readmore): A simple widget that allows you to expand/collapse text in a Flutter app.
+- [cached_network_image](https://pub.dev/packages/cached_network_image): A Flutter library to show images from the internet and keep them in the cache directory.
+- [loading_animation_widget](https://pub.dev/packages/loading_animation_widget): A collection of loading animations for Flutter.
+- [get](https://pub.dev/packages/get): A microframework and using it for state management, dependency injection, and route management in Flutter applications.
+- [get_cli](https://pub.dev/packages/get_cli): A CLI tool for the GetX microframework to help in the development of Flutter applications.
+
 ### Credits
 
 This UI Kit is based on the design from [Figma](https://www.figma.com/community/file/1160186880726418317) by [Illiyin Studio](https://www.figma.com/@illiyinstudio).
