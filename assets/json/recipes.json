@@ -1,0 +1,224 @@
+{
+  "recipes":[
+    {
+      "recipeName": "Classic Pancakes",
+      "instructions": "Mix the dry ingredients, add milk and eggs, then cook on a hot griddle.",
+      "ingredients": [
+        "1 cup flour",
+        "1 tablespoon sugar",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon salt",
+        "1 cup milk",
+        "1 egg"
+      ],
+      "fats": "6g",
+      "carbs": "35g",
+      "proteins": "7g",
+      "Kcal": "200",
+      "description": "Fluffy classic pancakes perfect for breakfast.",
+      "category": "Breakfast",
+      "ingredientsImage": "https://example.com/images/pancakes.jpg",
+      "user": {
+        "username": "chef_jane",
+        "image": "https://example.com/images/chef_jane.jpg"
+      }
+    },
+    {
+      "recipeName": "Caesar Salad",
+      "instructions": "Toss the lettuce with Caesar dressing, top with croutons and grated Parmesan.",
+      "ingredients": [
+        "2 cups romaine lettuce",
+        "1/4 cup Caesar dressing",
+        "1/4 cup grated Parmesan",
+        "1/2 cup croutons"
+      ],
+      "fats": "15g",
+      "carbs": "10g",
+      "proteins": "6g",
+      "Kcal": "190",
+      "description": "A classic Caesar salad with a creamy dressing.",
+      "category": "Lunch",
+      "ingredientsImage": "https://example.com/images/caesar_salad.jpg",
+      "user": {
+        "username": "salad_master",
+        "image": "https://example.com/images/salad_master.jpg"
+      }
+    },
+    {
+      "recipeName": "Spaghetti Bolognese",
+      "instructions": "Cook the spaghetti, prepare the Bolognese sauce, then combine and serve.",
+      "ingredients": [
+        "200g spaghetti",
+        "100g ground beef",
+        "1 cup tomato sauce",
+        "1 onion",
+        "2 cloves garlic",
+        "1 tablespoon olive oil"
+      ],
+      "fats": "12g",
+      "carbs": "60g",
+      "proteins": "20g",
+      "Kcal": "450",
+      "description": "Hearty spaghetti with a rich Bolognese sauce.",
+      "category": "Dinner",
+      "ingredientsImage": "https://example.com/images/spaghetti_bolognese.jpg",
+      "user": {
+        "username": "italian_chef",
+        "image": "https://example.com/images/italian_chef.jpg"
+      }
+    },
+    {
+      "recipeName": "Vegetable Stir Fry",
+      "instructions": "Stir fry mixed vegetables with soy sauce and serve over rice.",
+      "ingredients": [
+        "1 cup broccoli",
+        "1 cup bell peppers",
+        "1 cup carrots",
+        "2 tablespoons soy sauce",
+        "1 tablespoon olive oil",
+        "1 cup cooked rice"
+      ],
+      "fats": "7g",
+      "carbs": "45g",
+      "proteins": "8g",
+      "Kcal": "250",
+      "description": "A healthy vegetable stir fry served with rice.",
+      "category": "Lunch",
+      "ingredientsImage": "https://example.com/images/vegetable_stir_fry.jpg",
+      "user": {
+        "username": "veggie_lover",
+        "image": "https://example.com/images/veggie_lover.jpg"
+      }
+    },
+    {
+      "recipeName": "Chicken Curry",
+      "instructions": "Cook chicken with curry spices and coconut milk, serve with rice.",
+      "ingredients": [
+        "200g chicken breast",
+        "1 cup coconut milk",
+        "2 tablespoons curry powder",
+        "1 onion",
+        "2 cloves garlic",
+        "1 cup cooked rice"
+      ],
+      "fats": "15g",
+      "carbs": "30g",
+      "proteins": "25g",
+      "Kcal": "350",
+      "description": "A flavorful chicken curry with a creamy coconut sauce.",
+      "category": "Dinner",
+      "ingredientsImage": "https://example.com/images/chicken_curry.jpg",
+      "user": {
+        "username": "spice_master",
+        "image": "https://example.com/images/spice_master.jpg"
+      }
+    },
+    {
+      "recipeName": "Avocado Toast",
+      "instructions": "Mash the avocado, spread on toast, and top with salt, pepper, and lemon juice.",
+      "ingredients": [
+        "1 avocado",
+        "2 slices whole grain bread",
+        "1/2 lemon",
+        "Salt and pepper"
+      ],
+      "fats": "20g",
+      "carbs": "30g",
+      "proteins": "6g",
+      "Kcal": "320",
+      "description": "Simple and delicious avocado toast.",
+      "category": "Breakfast",
+      "ingredientsImage": "https://example.com/images/avocado_toast.jpg",
+      "user": {
+        "username": "breakfast_queen",
+        "image": "https://example.com/images/breakfast_queen.jpg"
+      }
+    },
+    {
+      "recipeName": "Grilled Cheese Sandwich",
+      "instructions": "Butter the bread, place cheese between slices, and grill until golden brown.",
+      "ingredients": [
+        "2 slices bread",
+        "2 slices cheddar cheese",
+        "2 tablespoons butter"
+      ],
+      "fats": "18g",
+      "carbs": "30g",
+      "proteins": "10g",
+      "Kcal": "350",
+      "description": "A classic grilled cheese sandwich.",
+      "category": "Lunch",
+      "ingredientsImage": "https://example.com/images/grilled_cheese.jpg",
+      "user": {
+        "username": "sandwich_lover",
+        "image": "https://example.com/images/sandwich_lover.jpg"
+      }
+    },
+    {
+      "recipeName": "Beef Tacos",
+      "instructions": "Cook the beef with taco seasoning, then serve in tortillas with toppings.",
+      "ingredients": [
+        "200g ground beef",
+        "8 taco shells",
+        "1 cup shredded lettuce",
+        "1/2 cup diced tomatoes",
+        "1/2 cup shredded cheese"
+      ],
+      "fats": "20g",
+      "carbs": "30g",
+      "proteins": "25g",
+      "Kcal": "400",
+      "description": "Tasty beef tacos with fresh toppings.",
+      "category": "Dinner",
+      "ingredientsImage": "https://example.com/images/beef_tacos.jpg",
+      "user": {
+        "username": "taco_king",
+        "image": "https://example.com/images/taco_king.jpg"
+      }
+    },
+    {
+      "recipeName": "Blueberry Muffins",
+      "instructions": "Mix the ingredients, fold in blueberries, and bake until golden brown.",
+      "ingredients": [
+        "1 cup flour",
+        "1/2 cup sugar",
+        "1/2 cup milk",
+        "1 egg",
+        "1/2 cup blueberries",
+        "1/4 cup butter"
+      ],
+      "fats": "10g",
+      "carbs": "40g",
+      "proteins": "5g",
+      "Kcal": "250",
+      "description": "Delicious homemade blueberry muffins.",
+      "category": "Breakfast",
+      "ingredientsImage": "https://example.com/images/blueberry_muffins.jpg",
+      "user": {
+        "username": "baking_enthusiast",
+        "image": "https://example.com/images/baking_enthusiast.jpg"
+      }
+    },
+    {
+      "recipeName": "Chicken Caesar Wrap",
+      "instructions": "Combine the chicken with Caesar dressing and lettuce, wrap in a tortilla.",
+      "ingredients": [
+        "200g chicken breast",
+        "2 tablespoons Caesar dressing",
+        "1 cup romaine lettuce",
+        "2 tortillas"
+      ],
+      "fats": "15g",
+      "carbs": "25g",
+      "proteins": "30g",
+      "Kcal": "350",
+      "description": "A tasty chicken Caesar wrap for lunch.",
+      "category": "Lunch",
+      "ingredientsImage": "https://example.com/images/chicken_caesar_wrap.jpg",
+      "user": {
+        "username": "wrap_lover",
+        "image": "https://example.com/images/wrap_lover.jpg"
+      }
+    }
+  ]
+}
