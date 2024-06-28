@@ -26,3 +26,7 @@ This project is a starting point for a Flutter application.
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For more information, visit the [Flutter documentation](https://docs.flutter.dev/).
+
+### Credits
+
+This UI Kit is based on the design from [Figma](https://www.figma.com/community/file/1160186880726418317) by [Illiyin Studio](https://www.figma.com/@illiyinstudio).
