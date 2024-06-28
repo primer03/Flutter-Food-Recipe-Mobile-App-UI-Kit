@@ -37,6 +37,10 @@ For more information, visit the [Flutter documentation](https://docs.flutter.dev
 - [get](https://pub.dev/packages/get): A microframework and using it for state management, dependency injection, and route management in Flutter applications.
 - [get_cli](https://pub.dev/packages/get_cli): A CLI tool for the GetX microframework to help in the development of Flutter applications.
 
+### Download
+
+- [APK Download](https://www.mediafire.com/file/h1karrzzqj5ny53/app-arm64-v8a-release.apk/file): Download the latest release of the app.
+
 ### Credits
 
 This UI Kit is based on the design from [Figma](https://www.figma.com/community/file/1160186880726418317) by [Illiyin Studio](https://www.figma.com/@illiyinstudio).
